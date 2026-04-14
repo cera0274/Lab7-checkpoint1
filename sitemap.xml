@@ -37,6 +37,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/registration/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/login/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lost-password/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sign-up/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
